@@ -1,0 +1,135 @@
+body {
+	font-family: Arial;
+	color: #e83030;
+	font-size: 0.9em;
+}
+
+#shopping-cart {
+	margin: 40px;
+}
+
+#product-grid {
+	margin: 40px;
+}
+
+#shopping-cart table {
+	width: 100%;
+	background-color: #7300ff;
+}
+
+#shopping-cart table td {
+	background-color: #0026ff;
+}
+
+.txt-heading {
+	color: #ffa600;
+	border-bottom: 10px solid #bbff00;
+	overflow: auto;
+	font-size: 40;
+}
+
+#btnEmpty {
+	background-color: #ffffff;
+	border: #0065d0 1px solid;
+	padding: 5px 10px;
+	color: #00d0d0;
+	float: right;
+	text-decoration: none;
+	border-radius: 3px;
+	margin: 10px 0px;
+	font-size: 30;
+}
+
+.btnAddAction {
+    padding: 5px 10px;
+    margin-left: 5px;
+    background-color: #1c76ca;
+    border: rgb(145, 12, 12) 1px solid;
+    color: #3b0303;
+    float: right;
+    text-decoration: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+#product-grid .txt-heading {
+	font-size: 30px;
+	margin-bottom: 18px;
+}
+
+.product-item {
+	float: left;
+	background: rgb(255, 179, 179);
+	margin: 30px 30px 0px 0px;
+	border: rgb(117, 81, 145) 1px solid;
+}
+
+.product-image {
+	height: 155px;
+	width: 250px;
+	background-color: #00ff95;
+}
+
+.clear-float {
+	clear: both;
+}
+
+.demo-input-box {
+	border-radius: 2px;
+	border: #5549c9 1px solid;
+	padding: 2px 1px;
+}
+
+.tbl-cart {
+	font-size: 0.9em;
+}
+
+.tbl-cart th {
+	font-weight: normal;
+}
+
+.product-title {
+	margin-bottom: 20px;
+}
+
+.product-price {
+	float:left;
+}
+
+.cart-action {
+	float: right;
+}
+
+.product-quantity {
+    padding: 5px 10px;
+    border-radius: 3px;
+    border: #c55757 1px solid;
+}
+
+.product-tile-footer {
+    padding: 15px 15px 0px 15px;
+    overflow: auto;
+}
+
+.cart-item-image {
+	width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    border: rgb(103, 255, 1) 1px solid;
+    padding: 5px;
+    vertical-align: middle;
+    margin-right: 15px;
+}
+.no-records {
+	text-align: center;
+	clear: both;
+	margin: 38px 0px;
+	font-size: 30;
+}
+body {  
+    font-family: Arial, sans-serif;  
+}  
+  
+h1 {  
+    text-align: center;  
+}
